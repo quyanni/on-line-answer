@@ -34,7 +34,8 @@
 
 项目需配置tomcat配置
 
-
+## 访问路径：
+`http://localhost:8080/on-line-question/`
 
 ## 项目截图
 
